@@ -1,5 +1,6 @@
 {
   "name": "yukht_jquery",
+  "type": "module",
   "version": "1.0.0",
   "description": "Test jquery",
   "main": "index.js",
