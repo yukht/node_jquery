@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yukht/node_jquery/issues"
   },
-  "homepage": "https://github.com/yukht/node_jquery#readme"
+  "homepage": "https://github.com/yukht/node_jquery#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
 }
