@@ -1,0 +1,19 @@
+{
+  "name": "yukht_jquery",
+  "version": "1.0.0",
+  "description": "Test jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukht/node_jquery.git"
+  },
+  "author": "Stanislav Yukht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yukht/node_jquery/issues"
+  },
+  "homepage": "https://github.com/yukht/node_jquery#readme"
+}
